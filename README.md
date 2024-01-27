@@ -1,7 +1,5 @@
-### Hi there 👋, 
-
-### LaxmiPriyaKotha
-👋 Hi, I'm Laxmipriya, a data science enthusiast currently pursuing a Master's degree at Sacred Heart University. My professional journey includes experience at Wipro.
+### Hi,I am LaxmiPriyaKotha 👋
+A data science enthusiast currently pursuing a Master's degree at Sacred Heart University. My professional journey includes experience at Wipro.
 🚀 Proficient in the entire data science pipeline, I enjoy transforming raw data into actionable insights.
 
 📫 How to reach me **laxmipriyakotha@gmail.com**
